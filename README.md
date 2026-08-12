@@ -1,1 +1,1 @@
-# redesigned-eurekaGET /stream/:id
+# redesigned-eurekaGET /stream/:id#
